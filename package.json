@@ -1,0 +1,23 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "login with authentication using react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MIrtiza/MERN-Login-system.git"
+  },
+  "keywords": [
+    "mern",
+    "login"
+  ],
+  "author": "mirza irtiza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MIrtiza/MERN-Login-system/issues"
+  },
+  "homepage": "https://github.com/MIrtiza/MERN-Login-system#readme"
+}
